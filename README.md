@@ -1,4 +1,12 @@
-### Hi there 👋
+### hi
+
+i am god (kind of).
+
+i am learning shell script.
+
+thank you for your support.
+
+i have an email.
 
 <!--
 **Bob96341/Bob96341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
